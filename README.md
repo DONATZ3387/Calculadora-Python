@@ -1,2 +1,2 @@
-# Subtra-o-Python
-Código para executar subtrações no Python
+# Calculadoras Python
+Códigos para executar expressões diversas no Python
